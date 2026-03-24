@@ -1,0 +1,11 @@
+.container {
+    text-align: center;
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+.heading {
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+}
